@@ -4,14 +4,11 @@ Hi there! I'm **Darwind**, a developer who saves a *little* too many small proje
 
 ## 🛠 Skills & Technologies
 - **Python** 🐍 (my most-used and favorite language!)
-- **Flask** 🚀 (for building web applications effortlessly)
 - **JavaScript** ✨ (front-end magic and dynamic interfaces)
 - **HTML & CSS** 🎨 (crafting beautiful web pages)
-- **C++** 🛡 (high-performance, low-level power)
 - **Java** ☕ (object-oriented adventures)
 - **MySQL** 🗄 (database management and data handling)
 - **Odoo** 📊 (ERP solutions for seamless business management)
-- **React** ⚛️ (building interactive UIs with ease)
 
 ## 🌟 Featured Project: **onepay_odoo**
 I am most proud of my **onepay_odoo** project, where I integrated OnePAY's payment gateway with Odoo, providing seamless transaction experiences. This project showcases my ability to blend payment solutions with robust ERP systems.
